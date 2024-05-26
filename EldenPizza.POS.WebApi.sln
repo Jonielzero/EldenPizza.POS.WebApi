@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EldenPizza.POS.WebApi", "EldenPizza.POS.WebApi.csproj", "{9E697771-B0E1-4F70-AC06-156A384D8019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS.Data", "..\POS.Data\POS.Data.csproj", "{A720C46C-5C25-4ED6-A9FC-83CC6E25B573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E697771-B0E1-4F70-AC06-156A384D8019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E697771-B0E1-4F70-AC06-156A384D8019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E697771-B0E1-4F70-AC06-156A384D8019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E697771-B0E1-4F70-AC06-156A384D8019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A720C46C-5C25-4ED6-A9FC-83CC6E25B573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A720C46C-5C25-4ED6-A9FC-83CC6E25B573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A720C46C-5C25-4ED6-A9FC-83CC6E25B573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A720C46C-5C25-4ED6-A9FC-83CC6E25B573}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65E5C6BF-62A0-45C7-ABB3-4A06F2B6968C}
+	EndGlobalSection
+EndGlobal
